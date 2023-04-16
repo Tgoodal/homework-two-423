@@ -1,0 +1,68 @@
+
+
+.owner{
+    display: flex;
+    justify-content: center;
+    margin: 40px 20px;
+    margin-bottom: 70px;
+    width: 1000px;
+}
+
+.owner .description {
+    width: 513px;
+    margin: 10px 20px;  
+    font-family: lora;
+    text-decoration: none;
+}
+
+.owner .description h1{
+    color: #EF767A;
+    font-family: robotoBoldItalic;
+}
+
+
+.owner img{
+    display: flex;
+    width: 224px;
+    height: 224px;
+    border-radius: 50%;
+}
+
+.owner .description a{
+    text-decoration: none;
+}
+
+
+.product{
+    display: flex;
+    width: 700px;
+    height: 500px;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.text{
+    width: 364px;
+}
+
+.product .text{
+    padding: 20px;
+}
+
+.product img{
+    display: flex;
+    height: 305px;
+    width: 305px;
+}
+
+.product .text h1{
+    color: #EF767A;
+    font-size: 21px;
+    font-family: robotoBold;
+}
+
+.product .text p{
+    font-family:lora;
+}
+

@@ -1,0 +1,56 @@
+.product{
+    margin: 0 auto;
+    width: 900px;
+}
+
+.product .head{
+    font-size: 60px;
+    font-family: robotoBold;
+    writing-mode: vertical-lr;
+    rotate: 180deg;
+    letter-spacing: 10px;
+    position: absolute;
+    top: 90px;
+    left: 105px;
+    color: #EF767A;
+}
+
+.product h1{
+    color: #EF767A;
+    font-family: robotoBold;
+    font-size: 24px;
+}
+
+.product span{
+    font-family: loraItalic;
+    font-size: 16px;
+}
+
+.product img{
+    display: flex;
+    width: 224px;
+    height: 224px;
+    border-radius: 50%;
+}
+
+.product .description{
+    margin: 20px 20px;
+    width: 513px;
+}
+
+.product .butterAlmond{
+    margin-top: 100px;
+    display: flex;
+}
+.product .roseGold{
+    margin-top: 20px;
+    display: flex;
+}
+.product .Lux{
+    margin-top: 20px;
+    display: flex;
+}
+
+.product .Lux .description{
+    width: 513px;
+}

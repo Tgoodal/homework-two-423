@@ -1,0 +1,52 @@
+.owners .head{
+    font-size: 60px;
+    font-family: robotoBold;
+    writing-mode: vertical-lr;
+    rotate: 180deg;
+    letter-spacing: 10px;
+    position: absolute;
+    top: 150px;
+    color: #EF767A;
+}
+
+.owners{
+    margin: 0 auto;
+    width: 1000px;
+    margin-top: 100px;
+
+}
+
+.owners .owner{
+    display: flex;
+    margin: 10px 20px;
+    margin-bottom: 70px;
+    
+}
+
+.owners .description {
+    width: 513px;
+    margin: 10px 20px;  
+}
+
+.owners img{
+    display: flex;
+    width: 224px;
+    height: 224px;
+    border-radius: 50%;
+}
+
+.owners .coOwner{
+    display: flex;
+    margin: 10px 20px;
+
+}
+
+.owners h1{
+    font-family: robotoBoldItalic;
+    font-size: 24px;
+    color: #EF767A;
+}
+
+.owners span{
+    font-family: loraItalic;
+}
